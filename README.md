@@ -1,0 +1,1 @@
+A personalized script that checks for online players on a minecraft server and alerts the user with music when atleast 1 player is online
